@@ -1,4 +1,4 @@
-# OTTER 8B (Wave 1) - PCB & Electronics Expert
+# OTTER 8B (Wave 1) 
 
 OTTER 1.0 is a fine-tuned Llama-3.1-8B model specialized for Printed Circuit Board (PCB) design, semiconductor physics, and hardware description languages (Verilog).
 
