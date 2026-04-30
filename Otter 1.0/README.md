@@ -17,7 +17,7 @@ OTTER excels at:
 ## How to use
 ```python
 from unsloth import FastLanguageModel
-model, tokenizer = FastLanguageModel.from_pretrained("your-username/OTTER-8b-Wave1")
+model, tokenizer = FastLanguageModel.from_pretrained("Eikovo/OTTER-1.0")
 ```
 ### 5. Handling Large Files (Git LFS)
 If you decide to keep the `adapter_model.safetensors` directly on GitHub, you **must** use **Git LFS (Large File Storage)**. 
